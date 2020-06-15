@@ -1,0 +1,35 @@
+.cadastro{
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(250, 250, 250);
+    margin:0;
+    margin-bottom: 0;
+    background-size: 100% 100vh;
+}
+.formCadastro{
+    font-family: Quicksand;
+    width: 30%;
+    margin-top: 0px;
+    margin-left: 33%;
+    padding-top: 90px;
+}
+.headerCadastro{
+    background-color: rgb(56, 19, 90);
+    padding-top: 5px;
+    width: 100%;
+    height: 6vh;
+    opacity: 1;
+    color: white;
+    font-size: 40px;
+    font-family: Quicksand;
+}
+#fc{
+    padding-left: 30px;
+}
+#bCadastro{
+    width: 86.5%;
+    margin-top: 10px;
+}
+#spam{
+    padding-left: 30px;
+}
