@@ -18,4 +18,4 @@ app.use(require('./controllers/authController.js'));
 app.use(require('./controllers/projectController.js'));
 console.log("servidor funcionando")
 
-app.listen(process.env.PORT || 3000);
+app.listen(process.env.PORT || 3001);

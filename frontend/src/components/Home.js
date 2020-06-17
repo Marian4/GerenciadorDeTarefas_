@@ -12,8 +12,8 @@ class Home extends React.Component{
                             <input name="email" placeholder="Email"/>
                             <input name="password" placeholder="Senha" type="password"/>
                             <button type="submit">Entrar</button>
-                            <p>Esqueci minha senha</p>
-                            <p>Cadastrar-se</p>
+                            <a href="/register">Esqueci minha senha</a>
+                            <a href="/register">Cadastrar-se</a>
                         </form>
                     </div>
             </div>

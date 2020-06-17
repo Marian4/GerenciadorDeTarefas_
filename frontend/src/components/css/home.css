@@ -61,6 +61,12 @@ button{
     width: 82.5%;
     margin-bottom: 20px;
 }
-p{
+a{
     font-size: 12px;
+    display: block;
+    text-decoration: none;
+    color: white;
+}
+#spam{
+    padding-left: 30px;
 }
